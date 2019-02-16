@@ -1,0 +1,15 @@
+{
+  "name": "first-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "dependencies": {
+    "electron": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Tino",
+  "license": "ISC"
+}
